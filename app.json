@@ -1,7 +1,12 @@
 {
   "expo": {
-    "name": "PomodoroTodo",
-    "slug": "PomodoroTodo",
+    "name": "pomodoro-to-do-list",
+    "slug": "leejiawei_pomodoro_todo_app",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,8 +24,6 @@
     "ios": {
       "supportsTablet": true
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "description": "By Lee Jia Wei"
   }
 }
